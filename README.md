@@ -1,2 +1,2 @@
-# bacasoal-gmail.com
+# bacasoal.github.io
 Baca Soal
